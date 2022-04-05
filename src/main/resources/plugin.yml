@@ -1,0 +1,6 @@
+name: Skyblock
+version: '${project.version}'
+main: com.jasonplayzs20.skyblock.Skyblock
+api-version: 1.18
+authors: [ JasonPlayzs20, Kirk_KD ]
+description: skyblock
